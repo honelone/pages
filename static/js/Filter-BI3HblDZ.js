@@ -1,0 +1,1 @@
+import{_ as s,o as e,a,F as t,r as c,b as n}from"./index-By46uPpP.js";const o={},_={class:"background-wrapper"};function d(l,p){return e(),a("div",_,[(e(),a(t,null,c(20,r=>n("span",{key:r})),64))])}const i=s(o,[["render",d],["__scopeId","data-v-f16c4a16"]]);export{i as default};

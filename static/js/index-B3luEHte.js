@@ -1,1 +1,0 @@
-import e from"./index-CC0Y7Pe6.js";import{d as o,f as t,e as a,g as r,o as s}from"./index-DblQHoIm.js";import{_ as n}from"./plugin-vueexport-helper-DlAUqK2U.js";const c={class:"game-layout-container"},_=o({__name:"index",setup(m){return(d,i)=>(s(),t("div",c,[a(e),r("",!0)]))}}),u=n(_,[["__scopeId","data-v-59e34bff"]]);export{u as default};
