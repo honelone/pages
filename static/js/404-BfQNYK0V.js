@@ -1,0 +1,1 @@
+import{_ as o,a as e,o as t}from"./index-lBn8_SII.js";const c={},n={class:"not-found-container"};function a(s,_){return t(),e("div",n,"404 Not Found")}const d=o(c,[["render",a],["__scopeId","data-v-daf7e185"]]);export{d as default};

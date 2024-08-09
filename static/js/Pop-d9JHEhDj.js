@@ -1,1 +1,0 @@
-import{_ as e,o as c,a as o}from"./index-DwJGF_ix.js";const a={},r={class:"background-wrapper"};function s(t,_){return c(),o("div",r)}const f=e(a,[["render",s],["__scopeId","data-v-ffcfe583"]]);export{f as default};
