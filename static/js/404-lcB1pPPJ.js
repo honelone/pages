@@ -1,1 +1,0 @@
-import{_ as e,a as o,g as t}from"./index-COQhxWnb.js";const c={},n={class:"not-found-container"};function a(s,_){return t(),o("div",n,"404 Not Found")}const d=e(c,[["render",a],["__scopeId","data-v-daf7e185"]]);export{d as default};
